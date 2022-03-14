@@ -4,9 +4,9 @@
 
 ### Lodash
 Help you with:
-    - Iterating arrays, objects, & strings
-    - Manipulating & testing values
-    - Creating composite functions
+- Iterating arrays, objects, & strings
+- Manipulating & testing values
+- Creating composite functions
 
 ### Moment.js
 It will be useful if you need work with Time
