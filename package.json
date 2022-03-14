@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/YauheniWind/Node.js_HomeWork/issues"
   },
-  "homepage": "https://github.com/YauheniWind/Node.js_HomeWork#readme"
+  "homepage": "https://github.com/YauheniWind/Node.js_HomeWork#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
 }
